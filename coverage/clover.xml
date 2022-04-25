@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1650922108527" clover="3.2.0">
+  <project timestamp="1650922108527" name="All files">
+    <metrics statements="341" coveredstatements="231" conditionals="33" coveredconditionals="1" methods="31" coveredmethods="11" elements="405" coveredelements="243" complexity="0" loc="341" ncloc="341" packages="14" files="30" classes="30"/>
+    <package name="src">
+      <metrics statements="37" coveredstatements="0" conditionals="16" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="app.module.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/app.module.ts">
+        <metrics statements="12" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+      </file>
+      <file name="main.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/main.ts">
+        <metrics statements="25" coveredstatements="0" conditionals="16" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="29" count="0" type="cond" truecount="0" falsecount="3"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="38" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api.controller">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/controller/index.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api.controller.aprobado">
+      <metrics statements="20" coveredstatements="16" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="aprobado.controller.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/controller/aprobado/aprobado.controller.ts">
+        <metrics statements="20" coveredstatements="16" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="41" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api.controller.desembolso">
+      <metrics statements="21" coveredstatements="17" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="desembolso.controller.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/controller/desembolso/desembolso.controller.ts">
+        <metrics statements="21" coveredstatements="17" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="40" count="4" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="64" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="69" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="73" count="1" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api.controller.simulador">
+      <metrics statements="21" coveredstatements="17" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="simulador.controller.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/controller/simulador/simulador.controller.ts">
+        <metrics statements="21" coveredstatements="17" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="37" count="4" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="57" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="62" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="67" count="1" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api.controller.tasa">
+      <metrics statements="21" coveredstatements="17" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="tasa.controller.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/controller/tasa/tasa.controller.ts">
+        <metrics statements="21" coveredstatements="17" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="38" count="4" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="51" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="56" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api.dto">
+      <metrics statements="67" coveredstatements="66" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="aprobado.dto.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/dto/aprobado.dto.ts">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="27" count="4" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
+        <line num="35" count="4" type="stmt"/>
+        <line num="40" count="4" type="stmt"/>
+        <line num="45" count="4" type="stmt"/>
+        <line num="50" count="4" type="stmt"/>
+      </file>
+      <file name="desembolso.dto.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/dto/desembolso.dto.ts">
+        <metrics statements="20" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="28" count="4" type="stmt"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="36" count="4" type="stmt"/>
+        <line num="42" count="4" type="stmt"/>
+        <line num="47" count="4" type="stmt"/>
+        <line num="51" count="4" type="stmt"/>
+        <line num="56" count="4" type="stmt"/>
+        <line num="60" count="4" type="stmt"/>
+        <line num="64" count="4" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="69" count="4" type="stmt"/>
+        <line num="76" count="4" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/dto/index.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+      </file>
+      <file name="simulador.dto.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/dto/simulador.dto.ts">
+        <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="33" count="4" type="stmt"/>
+        <line num="38" count="4" type="stmt"/>
+        <line num="43" count="4" type="stmt"/>
+        <line num="47" count="4" type="stmt"/>
+        <line num="51" count="4" type="stmt"/>
+        <line num="55" count="4" type="stmt"/>
+        <line num="59" count="4" type="stmt"/>
+        <line num="63" count="4" type="stmt"/>
+        <line num="68" count="4" type="stmt"/>
+        <line num="73" count="4" type="stmt"/>
+      </file>
+      <file name="tasa.dto.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/dto/tasa.dto.ts">
+        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="27" count="4" type="stmt"/>
+        <line num="33" count="4" type="stmt"/>
+        <line num="38" count="4" type="stmt"/>
+        <line num="42" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api.entity">
+      <metrics statements="8" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="post.entity.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/entity/post.entity.ts">
+        <metrics statements="8" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api.exceptions">
+      <metrics statements="8" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="http-exceptions.filter.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/exceptions/http-exceptions.filter.ts">
+        <metrics statements="8" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="15" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api.middleware">
+      <metrics statements="11" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="index.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/middleware/index.ts">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+      </file>
+      <file name="logger.middleware.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/middleware/logger.middleware.ts">
+        <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api.response">
+      <metrics statements="47" coveredstatements="45" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="desembolso.response.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/response/desembolso.response.ts">
+        <metrics statements="15" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="28" count="4" type="stmt"/>
+        <line num="33" count="4" type="stmt"/>
+        <line num="37" count="4" type="stmt"/>
+        <line num="42" count="4" type="stmt"/>
+        <line num="48" count="4" type="stmt"/>
+        <line num="59" count="4" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/response/index.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+      </file>
+      <file name="simulador.response.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/response/simulador.response.ts">
+        <metrics statements="24" coveredstatements="23" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="25" count="4" type="stmt"/>
+        <line num="30" count="4" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
+        <line num="39" count="4" type="stmt"/>
+        <line num="43" count="4" type="stmt"/>
+        <line num="48" count="4" type="stmt"/>
+        <line num="53" count="4" type="stmt"/>
+        <line num="58" count="4" type="stmt"/>
+        <line num="63" count="4" type="stmt"/>
+        <line num="68" count="4" type="stmt"/>
+        <line num="73" count="4" type="stmt"/>
+        <line num="78" count="4" type="stmt"/>
+        <line num="83" count="4" type="stmt"/>
+        <line num="88" count="4" type="stmt"/>
+        <line num="93" count="4" type="stmt"/>
+        <line num="102" count="4" type="stmt"/>
+      </file>
+      <file name="tasa.response.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/response/tasa.response.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api.services">
+      <metrics statements="45" coveredstatements="28" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="0"/>
+      <file name="aprobado.service.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/services/aprobado.service.ts">
+        <metrics statements="10" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+      </file>
+      <file name="desembolso.service.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/services/desembolso.service.ts">
+        <metrics statements="10" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/services/index.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+      </file>
+      <file name="simulador.service.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/services/simulador.service.ts">
+        <metrics statements="11" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+      <file name="tasas.service.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/services/tasas.service.ts">
+        <metrics statements="10" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api.utils">
+      <metrics statements="6" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="0" coveredmethods="0"/>
+      <file name="dotenv-options.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/utils/dotenv-options.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="3" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/api/utils/index.ts">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.config">
+      <metrics statements="25" coveredstatements="16" conditionals="1" coveredconditionals="0" methods="6" coveredmethods="3"/>
+      <file name="http.config.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/config/http.config.ts">
+        <metrics statements="14" coveredstatements="5" conditionals="1" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="38" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/config/index.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+      </file>
+      <file name="logger.config.ts" path="/Users/davidmars/projects/CajaLosAndes/bff/src/config/logger.config.ts">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="17" count="8" type="stmt"/>
+        <line num="25" count="12" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
